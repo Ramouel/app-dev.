@@ -1,5 +1,5 @@
 # app-dev.
-My First Respository
+My first respository
 # My Favorite Movies
 ##Animation/Action-Comedy
 *Movies*
